@@ -12,8 +12,7 @@ print("opened database successfully")
 
 try:
     cursor = c.execute("SELECT * from his_weather where city='{}'".format(city))
-    if cursor != null:
-        print("data selected successfully")
+    print("data selected successfully")
 except:
     sys.exit("No information about {}".format(city))
 
