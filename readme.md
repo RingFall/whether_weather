@@ -1,3 +1,28 @@
+# whether_weather
+
+Python3 scripts to collect, analysis and display weather information.
+
+## Features
+
+- Seven-day weather forecast by city and visualization
+- Live weather maps across China
+- Historical weather comparison with line chart display
+
+## Development environment configuration
+
+- Python 3.6.1
+- SQLite 3.28.0
+- beautifulsoup4 4.6.0
+- requests 2.19.1
+- pyecharts
+
+## Optimizations
+
+- User input rationalization test
+- Error handling
+
+------
+
 ## 题目
 
 > Made By RingFa1l_08163337
